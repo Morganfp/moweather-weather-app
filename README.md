@@ -2,6 +2,8 @@
 
 A weather app that allows users to search for locations and view the current weather, including temperature, city, and country. Built with React, this app fetches weather data from the Open-Meteo API and location data from OpenStreetMap.
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e3b5de4b-3982-4c46-9000-0c62dea03c0f" />
+
 ### Header
 
 - **App Branding**: Simple header with the app logo and icon.
